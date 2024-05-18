@@ -1,0 +1,9 @@
+Github url : https://github.com/Sridharsaravana/reactjs-demo
+
+Deployed site URL : http://13.201.95.165:3000/
+
+Dockerimages name
+-----------------
+For Dev : sridharsaravana/dev tag as latest is public 
+
+For Prod : sridharsaravana/prod tag as latest is private
